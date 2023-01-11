@@ -1,0 +1,27 @@
+// utils
+@import './utils/micsins';
+@import './utils/placeholders';
+@import './utils/variables';
+
+// base
+@import './base/base';
+@import './base/reset';
+@import './base/typography';
+
+// components
+@import './components/buttons';
+@import './components/logo';
+@import './components/socials';
+@import './components/card';
+
+// layout
+@import './layout/container-and-section';
+@import './layout/header';
+@import './layout/main';
+@import './layout/features';
+@import './layout/what-we-do';
+@import './layout/our-team';
+@import './layout/clients';
+
+@import './layout/footer';
+@import './layout/backdrop';
