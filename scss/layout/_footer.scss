@@ -9,7 +9,7 @@
   margin: 0 auto;
   align-items: baseline;
   display: flex;
-  gap: 94px;
+  gap: 93px;
 }
 
 .footer__address {
@@ -73,6 +73,7 @@
 }
 
 .footer__send-button {
+  width: 200px;
   display: flex;
   text-align: center;
   justify-content: center;

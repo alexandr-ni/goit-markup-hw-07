@@ -67,6 +67,7 @@
   }
 }
 
-.card__link:hover .card__box-overlay {
+.card__link:hover .card__box-overlay,
+.card__link:focus .card__box-overlay {
   transform: translateY(0);
 }

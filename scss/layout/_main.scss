@@ -30,9 +30,7 @@
 }
 
 .main__ul {
-  display: flex;
-  align-items: center;
+  @extend %display-flex;
   flex-wrap: wrap;
-  gap: 30px;
   flex-basis: calc(100% / 3);
 }
